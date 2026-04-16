@@ -16,7 +16,7 @@ public class OverlabIfTest {
         else{
             System.out.printf("입력된 숫자 %d는(은) 100보다 작은 숫자 입니다.\n", num);
 
-        }
+        }//if
 
         s.close();
     }
