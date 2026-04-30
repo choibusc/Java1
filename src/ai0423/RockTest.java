@@ -16,7 +16,7 @@ public class RockTest {
 
         System.out.println("컴퓨터의 가위, 바위, 보: " + computer[randNum]);
 
-        String result = " ";
+        String result = "";
 
         if (me.equals("가위")) {
             if (computer[randNum].equals("가위"))
