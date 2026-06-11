@@ -6,6 +6,10 @@ public class Car {
     public void upSpeed(int speed){
         this.speed += speed;
     }
+
+    public int getSpeed(){
+        return speed;
+    }
 }
 
 
